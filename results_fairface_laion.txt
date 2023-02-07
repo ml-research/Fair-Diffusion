@@ -1,0 +1,306 @@
+accountant
+man: 3491, woman: 3272, except: 0
+aerospace engineer
+man: 399, woman: 590, except: 0
+aide
+man: 1079, woman: 1916, except: 0
+air conditioning installer
+man: 5931, woman: 531, except: 0
+architect
+man: 443, woman: 57, except: 0
+artist
+man: 207, woman: 238, except: 0
+author
+man: 350, woman: 290, except: 0
+baker
+man: 4897, woman: 5512, except: 0
+bartender
+man: 7508, woman: 4124, except: 0
+bus driver
+man: 2435, woman: 636, except: 0
+butcher
+man: 2571, woman: 498, except: 0
+career counselor
+man: 574, woman: 3634, except: 0
+carpenter
+man: 30351, woman: 4950, except: 0
+carpet installer
+man: 1650, woman: 267, except: 0
+cashier
+man: 4520, woman: 16101, except: 0
+ceo
+man: 2623, woman: 130, except: 0
+childcare worker
+man: 14, woman: 84, except: 0
+civil engineer
+man: 3098, woman: 1177, except: 0
+claims appraiser
+man: 391, woman: 174, except: 0
+cleaner
+man: 606, woman: 675, except: 0
+clergy
+man: 2060, woman: 219, except: 0
+clerk
+man: 8501, woman: 15127, except: 0
+coach
+man: 2054, woman: 133, except: 0
+community manager
+man: 1, woman: 0, except: 0
+compliance officer
+man: 100, woman: 35, except: 0
+computer programmer
+man: 1990, woman: 1453, except: 0
+computer support specialist
+man: 13306, woman: 10365, except: 0
+computer systems analyst
+man: 6611, woman: 3065, except: 0
+construction worker
+man: 36156, woman: 6538, except: 0
+cook
+man: 12992, woman: 10278, except: 0
+correctional officer
+man: 1679, woman: 512, except: 0
+courier
+man: 4786, woman: 1076, except: 0
+credit counselor
+man: 47, woman: 655, except: 0
+customer service representative
+man: 5367, woman: 22641, except: 0
+data entry keyer
+man: 85, woman: 64, except: 0
+dental assistant
+man: 217, woman: 2123, except: 0
+dental hygienist
+man: 617, woman: 6425, except: 0
+dentist
+man: 2793, woman: 1959, except: 0
+designer
+man: 304, woman: 102, except: 0
+detective
+man: 886, woman: 222, except: 0
+director
+man: 1512, woman: 547, except: 0
+dishwasher
+man: 208, woman: 559, except: 0
+dispatcher
+man: 2407, woman: 11346, except: 0
+doctor
+man: 16301, woman: 6236, except: 0
+drywall installer
+man: 14202, woman: 4886, except: 0
+electrical engineer
+man: 3172, woman: 787, except: 0
+electrician
+man: 4579, woman: 506, except: 0
+engineer
+man: 4952, woman: 987, except: 0
+event planner
+man: 52, woman: 1465, except: 0
+executive assistant
+man: 128, woman: 8751, except: 0
+facilities manager
+man: 1613, woman: 251, except: 0
+farmer
+man: 16329, woman: 2619, except: 0
+fast food worker
+man: 549, woman: 772, except: 0
+file clerk
+man: 3100, woman: 6490, except: 0
+financial advisor
+man: 2726, woman: 422, except: 0
+financial analyst
+man: 740, woman: 919, except: 0
+financial manager
+man: 2132, woman: 1449, except: 0
+firefighter
+man: 4959, woman: 621, except: 0
+fitness instructor
+man: 3857, woman: 11400, except: 0
+graphic designer
+man: 6482, woman: 3025, except: 0
+groundskeeper
+man: 859, woman: 148, except: 0
+hairdresser
+man: 1680, woman: 3827, except: 0
+head cook
+man: 11247, woman: 5198, except: 0
+health technician
+man: 2977, woman: 10978, except: 0
+host
+man: 371, woman: 207, except: 0
+hostess
+man: 67, woman: 2093, except: 0
+housekeeper
+man: 163, woman: 1906, except: 0
+industrial engineer
+man: 2471, woman: 1229, except: 0
+insurance agent
+man: 4339, woman: 5017, except: 0
+interior designer
+man: 450, woman: 1265, except: 0
+interviewer
+man: 7981, woman: 7968, except: 0
+inventory clerk
+man: 7476, woman: 6221, except: 0
+it specialist
+man: 11384, woman: 1544, except: 0
+jailer
+man: 504, woman: 127, except: 0
+janitor
+man: 876, woman: 93, except: 0
+laboratory technician
+man: 5075, woman: 6960, except: 0
+language pathologist
+man: 140, woman: 179, except: 0
+lawyer
+man: 9427, woman: 5513, except: 0
+librarian
+man: 891, woman: 3581, except: 0
+logistician
+man: 2584, woman: 1042, except: 0
+machinery mechanic
+man: 10604, woman: 1683, except: 0
+machinist
+man: 1890, woman: 134, except: 0
+maid
+man: 580, woman: 3545, except: 0
+manager
+man: 313, woman: 157, except: 0
+manicurist
+man: 243, woman: 7490, except: 0
+market research analyst
+man: 1801, woman: 982, except: 0
+marketing manager
+man: 4039, woman: 2528, except: 0
+massage therapist
+man: 316, woman: 1735, except: 0
+mechanic
+man: 11113, woman: 2639, except: 0
+mechanical engineer
+man: 782, woman: 263, except: 0
+medical records specialist
+man: 16278, woman: 15535, except: 0
+mental health counselor
+man: 17, woman: 19, except: 0
+metal worker
+man: 14382, woman: 1565, except: 0
+mover
+man: 17996, woman: 4108, except: 0
+musician
+man: 3668, woman: 1338, except: 0
+network administrator
+man: 1829, woman: 174, except: 0
+nurse
+man: 1604, woman: 12004, except: 0
+nursing assistant
+man: 850, woman: 10183, except: 0
+nutritionist
+man: 3150, woman: 18714, except: 0
+occupational therapist
+man: 100, woman: 219, except: 0
+office clerk
+man: 7111, woman: 19588, except: 0
+office worker
+man: 16355, woman: 21411, except: 0
+painter
+man: 2893, woman: 2602, except: 0
+paralegal
+man: 70, woman: 4636, except: 0
+payroll clerk
+man: 605, woman: 7176, except: 0
+pharmacist
+man: 4419, woman: 6615, except: 0
+pharmacy technician
+man: 5179, woman: 13266, except: 0
+photographer
+man: 3733, woman: 2950, except: 0
+physical therapist
+man: 210, woman: 531, except: 0
+pilot
+man: 864, woman: 158, except: 0
+plane mechanic
+man: 2743, woman: 772, except: 0
+plumber
+man: 7155, woman: 985, except: 0
+police officer
+man: 4135, woman: 1195, except: 0
+postal worker
+man: 6147, woman: 1842, except: 0
+printing press operator
+man: 11887, woman: 2458, except: 0
+producer
+man: 155, woman: 33, except: 0
+programmer
+man: 43, woman: 9, except: 0
+psychologist
+man: 1698, woman: 735, except: 0
+public relations specialist
+man: 4531, woman: 10480, except: 0
+purchasing agent
+man: 6609, woman: 16662, except: 0
+radiologic technician
+man: 1096, woman: 2858, except: 0
+real estate broker
+man: 15139, woman: 8725, except: 0
+receptionist
+man: 3567, woman: 30187, except: 0
+repair worker
+man: 25084, woman: 2299, except: 0
+roofer
+man: 15851, woman: 1949, except: 0
+sales manager
+man: 11967, woman: 2527, except: 0
+salesperson
+man: 8905, woman: 6894, except: 0
+school bus driver
+man: 1315, woman: 330, except: 0
+scientist
+man: 2828, woman: 1000, except: 0
+security guard
+man: 1389, woman: 89, except: 0
+sheet metal worker
+man: 14601, woman: 1836, except: 0
+singer
+man: 537, woman: 1636, except: 0
+social assistant
+man: 108, woman: 206, except: 0
+social worker
+man: 307, woman: 609, except: 0
+software developer
+man: 15, woman: 1, except: 0
+stocker
+man: 9, woman: 0, except: 0
+supervisor
+man: 422, woman: 46, except: 0
+taxi driver
+man: 1451, woman: 274, except: 0
+teacher
+man: 1505, woman: 1755, except: 0
+teaching assistant
+man: 101, woman: 251, except: 0
+teller
+man: 1331, woman: 3174, except: 0
+therapist
+man: 752, woman: 1197, except: 0
+tractor operator
+man: 6204, woman: 900, except: 0
+truck driver
+man: 3302, woman: 592, except: 0
+tutor
+man: 137, woman: 112, except: 0
+underwriter
+man: 241, woman: 468, except: 0
+veterinarian
+man: 2054, woman: 2623, except: 0
+waiter
+man: 13047, woman: 2577, except: 0
+waitress
+man: 2192, woman: 25714, except: 0
+web developer
+man: 105, woman: 11, except: 0
+welder
+man: 2431, woman: 345, except: 0
+wholesale buyer
+man: 5357, woman: 15565, except: 0
+writer
+man: 5, woman: 6, except: 0

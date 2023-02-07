@@ -1,0 +1,154 @@
+Occupation                         LAION     Retrieved Percentage
+accountant                         9413      9405      99.92%
+aerospace engineer                 1381      1380      99.93%
+aide                               4578      4456      97.34%
+air conditioning installer         7840      7807      99.58%
+architect                          607       603       99.34%
+artist                             494       494       100.00%
+author                             793       785       98.99%
+baker                              13334     13316     99.87%
+bartender                          16652     16597     99.67%
+bus driver                         6110      6023      98.58%
+butcher                            6087      5975      98.16%
+career counselor                   5317      5292      99.53%
+carpenter                          48420     48336     99.83%
+carpet installer                   2837      2833      99.86%
+cashier                            36655     36552     99.72%
+ceo                                3184      3176      99.75%
+childcare worker                   138       138       100.00%
+civil engineer                     5081      5064      99.67%
+claims appraiser                   1449      1436      99.10%
+cleaner                            2260      2243      99.25%
+clergy                             3888      3838      98.71%
+clerk                              26919     26576     98.73%
+coach                              3335      3241      97.18%
+community manager                  1         1         100.00%
+compliance officer                 403       403       100.00%
+computer programmer                4032      3988      98.91%
+computer support specialist        27622     27568     99.80%
+computer systems analyst           10873     10856     99.84%
+construction worker                51570     51251     99.38%
+cook                               27531     27471     99.78%
+correctional officer               3365      3255      96.73%
+courier                            7959      7879      98.99%
+credit counselor                   842       836       99.29%
+customer service representative    31993     31950     99.87%
+data entry keyer                   17947     17681     98.52%
+dental assistant                   2645      2635      99.62%
+dental hygienist                   8817      8771      99.48%
+dentist                            6829      6797      99.53%
+designer                           519       516       99.42%
+detective                          1596      1575      98.68%
+director                           3280      3273      99.79%
+dishwasher                         129994    128997    99.23%
+dispatcher                         19837     19692     99.27%
+doctor                             27421     27227     99.29%
+drywall installer                  20932     20922     99.95%
+electrical engineer                6573      6546      99.59%
+electrician                        6879      6853      99.62%
+engineer                           6614      6613      99.98%
+event planner                      1830      1820      99.45%
+executive assistant                9000      8996      99.96%
+facilities manager                 2723      2715      99.71%
+farmer                             25385     25185     99.21%
+fast food worker                   1937      1912      98.71%
+file clerk                         19649     19399     98.73%
+financial advisor                  3986      3981      99.87%
+financial analyst                  1889      1889      100.00%
+financial manager                  4372      4368      99.91%
+firefighter                        10331     10197     98.70%
+fitness instructor                 17905     17861     99.75%
+graphic designer                   11210     11200     99.91%
+groundskeeper                      2534      2513      99.17%
+hairdresser                        11662     11627     99.70%
+head cook                          21357     21224     99.38%
+health technician                  16478     16303     98.94%
+host                               1559      1322      84.80%
+hostess                            3175      3060      96.38%
+housekeeper                        2537      2512      99.01%
+industrial engineer                4059      4058      99.98%
+insurance agent                    11103     11049     99.51%
+interior designer                  2119      2116      99.86%
+interviewer                        18536     18495     99.78%
+inventory clerk                    15523     15389     99.14%
+it specialist                      14855     14843     99.92%
+jailer                             864       843       97.57%
+janitor                            1467      1461      99.59%
+laboratory technician              17940     17849     99.49%
+language pathologist               2745      2729      99.42%
+lawyer                             16797     16780     99.90%
+librarian                          4864      4855      99.81%
+logistician                        4604      4509      97.94%
+machinery mechanic                 18979     18939     99.79%
+machinist                          3246      3226      99.38%
+maid                               5861      5691      97.10%
+manager                            613       610       99.51%
+manicurist                         12610     12588     99.83%
+market research analyst            3656      3604      98.58%
+marketing manager                  6865      6863      99.97%
+massage therapist                  3644      3607      98.98%
+mechanic                           22923     22842     99.65%
+mechanical engineer                3096      3080      99.48%
+medical records specialist         38678     38619     99.85%
+mental health counselor            49        49        100.00%
+metal worker                       39601     39355     99.38%
+mover                              42488     41756     98.28%
+musician                           5920      5913      99.88%
+network administrator              2269      2264      99.78%
+nurse                              17099     16741     97.91%
+nursing assistant                  13921     13369     96.03%
+nutritionist                       24450     24209     99.01%
+occupational therapist             4484      4470      99.69%
+office clerk                       29068     28910     99.46%
+office worker                      42916     42875     99.90%
+painter                            6855      6842      99.81%
+paralegal                          5915      5882      99.44%
+payroll clerk                      9351      9310      99.56%
+pharmacist                         16429     16313     99.29%
+pharmacy technician                28314     28048     99.06%
+photographer                       10679     10676     99.97%
+physical therapist                 1558      1532      98.33%
+pilot                              1564      1529      97.76%
+plane mechanic                     5097      5087      99.80%
+plumber                            14017     13227     94.36%
+police officer                     6968      6879      98.72%
+postal worker                      12404     12228     98.58%
+printing press operator            33060     32691     98.88%
+producer                           394       391       99.24%
+programmer                         78        77        98.72%
+psychologist                       3475      3424      98.53%
+public relations specialist        15326     15321     99.97%
+purchasing agent                   26309     26265     99.83%
+radiologic technician              8920      8877      99.52%
+real estate broker                 25122     25075     99.81%
+receptionist                       38256     38211     99.88%
+repair worker                      30454     30363     99.70%
+roofer                             25089     25022     99.73%
+sales manager                      15684     15679     99.97%
+salesperson                        16937     16922     99.91%
+school bus driver                  3568      3514      98.49%
+scientist                          4457      4440      99.62%
+security guard                     2388      2348      98.32%
+sheet metal worker                 57512     57341     99.70%
+singer                             2709      2703      99.78%
+social assistant                   491       423       86.15%
+social worker                      11621     11489     98.86%
+software developer                 19        19        100.00%
+stocker                            9         9         100.00%
+supervisor                         544       544       100.00%
+taxi driver                        3565      3533      99.10%
+teacher                            4235      4191      98.96%
+teaching assistant                 440       437       99.32%
+teller                             5659      5632      99.52%
+therapist                          2377      2374      99.87%
+tractor operator                   13957     13864     99.33%
+truck driver                       9598      9573      99.74%
+tutor                              360       355       98.61%
+underwriter                        885       882       99.66%
+veterinarian                       6768      6729      99.42%
+waiter                             24108     23997     99.54%
+waitress                           34018     33765     99.26%
+web developer                      157       155       98.73%
+welder                             16180     16040     99.13%
+wholesale buyer                    22704     22693     99.95%
+writer                             13        13        100.00%

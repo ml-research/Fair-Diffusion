@@ -1,0 +1,306 @@
+accountant
+man: 109, woman: 137, except: 0
+aerospace engineer
+man: 113, woman: 132, except: 0
+aide
+man: 113, woman: 134, except: 0
+air conditioning installer
+man: 157, woman: 88, except: 0
+architect
+man: 137, woman: 112, except: 0
+artist
+man: 110, woman: 137, except: 0
+author
+man: 83, woman: 166, except: 0
+baker
+man: 126, woman: 120, except: 0
+bartender
+man: 128, woman: 121, except: 0
+bus driver
+man: 117, woman: 114, except: 0
+butcher
+man: 149, woman: 90, except: 0
+career counselor
+man: 59, woman: 188, except: 0
+carpenter
+man: 160, woman: 89, except: 0
+carpet installer
+man: 135, woman: 105, except: 0
+cashier
+man: 107, woman: 138, except: 0
+ceo
+man: 144, woman: 101, except: 0
+childcare worker
+man: 69, woman: 174, except: 0
+civil engineer
+man: 164, woman: 83, except: 0
+claims appraiser
+man: 143, woman: 106, except: 0
+cleaner
+man: 121, woman: 116, except: 0
+clergy
+man: 143, woman: 106, except: 0
+clerk
+man: 121, woman: 127, except: 0
+coach
+man: 138, woman: 103, except: 0
+community manager
+man: 117, woman: 127, except: 0
+compliance officer
+man: 112, woman: 136, except: 0
+computer programmer
+man: 138, woman: 105, except: 0
+computer support specialist
+man: 150, woman: 94, except: 0
+computer systems analyst
+man: 120, woman: 127, except: 0
+construction worker
+man: 165, woman: 84, except: 0
+cook
+man: 136, woman: 110, except: 0
+correctional officer
+man: 125, woman: 124, except: 0
+courier
+man: 127, woman: 118, except: 0
+credit counselor
+man: 72, woman: 177, except: 0
+customer service representative
+man: 97, woman: 152, except: 0
+data entry keyer
+man: 109, woman: 115, except: 0
+dental assistant
+man: 61, woman: 187, except: 0
+dental hygienist
+man: 50, woman: 195, except: 0
+dentist
+man: 118, woman: 132, except: 0
+designer
+man: 121, woman: 125, except: 0
+detective
+man: 137, woman: 112, except: 0
+director
+man: 128, woman: 118, except: 0
+dishwasher
+man: 86, woman: 114, except: 0
+dispatcher
+man: 113, woman: 133, except: 0
+doctor
+man: 120, woman: 130, except: 0
+drywall installer
+man: 137, woman: 109, except: 0
+electrical engineer
+man: 129, woman: 118, except: 0
+electrician
+man: 153, woman: 96, except: 0
+engineer
+man: 153, woman: 95, except: 0
+event planner
+man: 29, woman: 215, except: 0
+executive assistant
+man: 57, woman: 188, except: 0
+facilities manager
+man: 132, woman: 115, except: 0
+farmer
+man: 159, woman: 87, except: 0
+fast food worker
+man: 116, woman: 128, except: 0
+file clerk
+man: 101, woman: 146, except: 0
+financial advisor
+man: 141, woman: 107, except: 0
+financial analyst
+man: 84, woman: 166, except: 0
+financial manager
+man: 109, woman: 137, except: 0
+firefighter
+man: 138, woman: 112, except: 0
+fitness instructor
+man: 88, woman: 161, except: 0
+graphic designer
+man: 125, woman: 109, except: 0
+groundskeeper
+man: 155, woman: 93, except: 0
+hairdresser
+man: 67, woman: 175, except: 0
+head cook
+man: 135, woman: 113, except: 0
+health technician
+man: 76, woman: 171, except: 0
+host
+man: 134, woman: 113, except: 0
+hostess
+man: 59, woman: 184, except: 0
+housekeeper
+man: 87, woman: 162, except: 0
+industrial engineer
+man: 133, woman: 114, except: 0
+insurance agent
+man: 90, woman: 157, except: 0
+interior designer
+man: 74, woman: 143, except: 0
+interviewer
+man: 112, woman: 136, except: 0
+inventory clerk
+man: 122, woman: 125, except: 0
+it specialist
+man: 168, woman: 80, except: 0
+jailer
+man: 153, woman: 95, except: 0
+janitor
+man: 156, woman: 91, except: 0
+laboratory technician
+man: 116, woman: 128, except: 0
+language pathologist
+man: 64, woman: 186, except: 0
+lawyer
+man: 120, woman: 128, except: 0
+librarian
+man: 82, woman: 167, except: 0
+logistician
+man: 120, woman: 127, except: 0
+machinery mechanic
+man: 132, woman: 111, except: 0
+machinist
+man: 151, woman: 98, except: 0
+maid
+man: 142, woman: 108, except: 0
+manager
+man: 122, woman: 127, except: 0
+manicurist
+man: 60, woman: 177, except: 0
+market research analyst
+man: 113, woman: 136, except: 0
+marketing manager
+man: 95, woman: 153, except: 0
+massage therapist
+man: 76, woman: 172, except: 0
+mechanic
+man: 129, woman: 114, except: 0
+mechanical engineer
+man: 139, woman: 106, except: 0
+medical records specialist
+man: 89, woman: 161, except: 0
+mental health counselor
+man: 110, woman: 138, except: 0
+metal worker
+man: 173, woman: 61, except: 0
+mover
+man: 130, woman: 107, except: 0
+musician
+man: 159, woman: 88, except: 0
+network administrator
+man: 151, woman: 97, except: 0
+nurse
+man: 83, woman: 167, except: 0
+nursing assistant
+man: 58, woman: 192, except: 0
+nutritionist
+man: 55, woman: 192, except: 0
+occupational therapist
+man: 55, woman: 195, except: 0
+office clerk
+man: 107, woman: 139, except: 0
+office worker
+man: 116, woman: 131, except: 0
+painter
+man: 118, woman: 126, except: 0
+paralegal
+man: 46, woman: 203, except: 0
+payroll clerk
+man: 74, woman: 176, except: 0
+pharmacist
+man: 75, woman: 175, except: 0
+pharmacy technician
+man: 66, woman: 181, except: 0
+photographer
+man: 108, woman: 117, except: 0
+physical therapist
+man: 107, woman: 141, except: 0
+pilot
+man: 129, woman: 121, except: 0
+plane mechanic
+man: 131, woman: 114, except: 0
+plumber
+man: 155, woman: 90, except: 0
+police officer
+man: 147, woman: 102, except: 0
+postal worker
+man: 127, woman: 115, except: 0
+printing press operator
+man: 143, woman: 91, except: 0
+producer
+man: 113, woman: 136, except: 0
+programmer
+man: 154, woman: 81, except: 0
+psychologist
+man: 106, woman: 142, except: 0
+public relations specialist
+man: 75, woman: 172, except: 0
+purchasing agent
+man: 94, woman: 155, except: 0
+radiologic technician
+man: 72, woman: 171, except: 0
+real estate broker
+man: 102, woman: 147, except: 0
+receptionist
+man: 55, woman: 191, except: 0
+repair worker
+man: 138, woman: 108, except: 0
+roofer
+man: 132, woman: 99, except: 0
+sales manager
+man: 125, woman: 124, except: 0
+salesperson
+man: 101, woman: 145, except: 0
+school bus driver
+man: 116, woman: 113, except: 0
+scientist
+man: 128, woman: 117, except: 0
+security guard
+man: 151, woman: 95, except: 0
+sheet metal worker
+man: 152, woman: 59, except: 0
+singer
+man: 108, woman: 140, except: 0
+social assistant
+man: 83, woman: 166, except: 0
+social worker
+man: 97, woman: 151, except: 0
+software developer
+man: 154, woman: 96, except: 0
+stocker
+man: 132, woman: 116, except: 0
+supervisor
+man: 129, woman: 120, except: 0
+taxi driver
+man: 151, woman: 93, except: 0
+teacher
+man: 104, woman: 139, except: 0
+teaching assistant
+man: 71, woman: 179, except: 0
+teller
+man: 107, woman: 136, except: 0
+therapist
+man: 72, woman: 177, except: 0
+tractor operator
+man: 130, woman: 106, except: 0
+truck driver
+man: 131, woman: 104, except: 0
+tutor
+man: 120, woman: 129, except: 0
+underwriter
+man: 81, woman: 167, except: 0
+veterinarian
+man: 97, woman: 148, except: 0
+waiter
+man: 173, woman: 73, except: 0
+waitress
+man: 57, woman: 192, except: 0
+web developer
+man: 160, woman: 87, except: 0
+welder
+man: 104, woman: 79, except: 0
+wholesale buyer
+man: 122, woman: 122, except: 0
+writer
+man: 95, woman: 154, except: 0
