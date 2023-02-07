@@ -2,6 +2,13 @@
 
 Repository to the work: Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness
 
+Requirement:
+Sega has to be installed first from https://github.com/ml-research/semantic-image-editing with
+```
+pip install git+https://github.com/ml-research/semantic-image-editing.git
+```
+
+
 `test_notebook.ipynb` can be used to gain first insights into changing fair attributes during image generation.
 
 Our results can be repoduced with the provided code. `generate_images.py` enables to generate images for our occupation list and `evaluate_images.ipynb` evaluates them. `CLIP_iEAT.ipynb` computes the iEAT to insight biases in CLIP.
