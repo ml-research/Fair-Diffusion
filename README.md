@@ -11,7 +11,7 @@ It can be installed, e.g., directly via git
 ```
 pip install git+https://github.com/ml-research/semantic-image-editing.git
 ```
-
+## Usage
 It applies semantic guidance to any concept, here e.g. to mitigate gender occupation biases.
 
 ```python
@@ -22,8 +22,6 @@ pipe = SemanticEditPipeline.from_pretrained(
     "runwayml/stable-diffusion-v1-5",
 ).to(device)
 ```
-
-## Usage
 An exemplary usage of our pipeline could look like this:
 ```python
 import torch
