@@ -31,7 +31,7 @@ gen.manual_seed(21)
 out = pipe(prompt='a photo of the face of a firefighter', generator=gen, num_images_per_prompt=1, guidance_scale=7,
            editing_prompt=['male person',       # Concepts to apply 
                            'female person'],
-           reverse_editing_direction=[True, False], # Direction of guidance i.e. increase all concepts
+           reverse_editing_direction=[True, False], # Direction of guidance i.e. decrease the first and increase the second concept
            edit_warmup_steps=[10, 10], # Warmup period for each concept
            edit_guidance_scale=[4, 4], # Guidance scale for each concept
            edit_threshold=[0.95, 0.95], # Threshold for each concept. Threshold equals the percentile of the latent space that will be discarded. I.e. threshold=0.99 uses 1% of the latent dimensions
