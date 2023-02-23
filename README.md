@@ -1,6 +1,6 @@
 # Fair-Diffusion
 
-Repository to the [Paper](https://arxiv.org/abs/xxxx.xxxxx) **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness**
+Repository to the [Paper](https://arxiv.org/abs/2302.10893) **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness**
 
 ![Teaser](firefighter_example.png)
 
@@ -57,7 +57,7 @@ If you like or use our work please cite us:
       title={Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness}, 
       author={Felix Friedrich and Patrick Schramowski and Manuel Brack and Lukas Struppek and Dominik Hintersdorf and Sasha Luccioni and Kristian Kersting},
       year={2023},
-      journal={arXiv preprint arXiv:xxxx.xxxxx}
+      journal={arXiv preprint arXiv:2302.10893}
 }
 ```
 
