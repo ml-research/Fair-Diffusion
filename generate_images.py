@@ -1,5 +1,4 @@
 import torch
-from diffusers import LatentEditDiffusionPipeline
 import os
 import json
 import numpy as np
@@ -8,6 +7,7 @@ from utils import get_random, face_existing
 import dlib
 import re
 import argparse
+from semdiffusers import SemanticEditPipeline
 
 parser = argparse.ArgumentParser(description='generate images')
 parser.add_argument('--mode', default='generate', type=str, choices=['generate','edit'],
@@ -24,11 +24,11 @@ def chunks(xs, n):
 
 cnn_face_detector = dlib.cnn_face_detection_model_v1('dlib_models/mmod_human_face_detector.dat')
 device = 'cuda'
-model_name = "/workspace/StableDiff/models/stable-diffusion-v1-5"
-pipe = LatentEditDiffusionPipeline.from_pretrained(
-    model_name,
-    safety_checker=None,
-    ).to(device)
+
+pipe = SemanticEditPipeline.from_pretrained(
+    "runwayml/stable-diffusion-v1-5",
+).to(device)
+
 gen = torch.Generator(device=device)
 num_im = 250
 chunk_size = 15
