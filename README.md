@@ -4,7 +4,10 @@ Repository to the [Paper](https://arxiv.org/abs/2302.10893) **Fair Diffusion: In
 
 ![Teaser](firefighter_example.png)
 
-## Requirements:
+## News
+A demo is available at [Huggingface](https://huggingface.co/spaces/AIML-TUDA/FairDiffusionExplorer) and you can find a recent article about our work at [MIT Technology Review](https://www.technologyreview.com/2023/03/28/1070390/what-if-we-could-just-ask-ai-to-be-less-biased/)
+
+## Requirements
 A model editing technique has to be installed first. This repositories builds on Sega, but can be adjusted to other methods, too. Further information about [Sega](https://github.com/ml-research/semantic-image-editing).
 
 It can be installed, e.g., directly via git
@@ -55,9 +58,9 @@ If you like or use our work please cite us:
 ```bibtex
 @article{friedrich2023FairDiffusion,
       title={Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness}, 
-      author={Felix Friedrich and Patrick Schramowski and Manuel Brack and Lukas Struppek and Dominik Hintersdorf and Sasha Luccioni and Kristian Kersting},
+      author={Felix Friedrich and Manuel Brack and Lukas Struppek and Dominik Hintersdorf and Patrick Schramowski and Sasha Luccioni and Kristian Kersting},
       year={2023},
-      journal={arXiv preprint arXiv:2302.10893}
+      journal={arXiv preprint at arXiv:2302.10893}
 }
 ```
 
