@@ -25,8 +25,9 @@ def chunks(xs, n):
 cnn_face_detector = dlib.cnn_face_detection_model_v1('dlib_models/mmod_human_face_detector.dat')
 device = 'cuda'
 
+model_name = "runwayml/stable-diffusion-v1-5"
 pipe = SemanticEditPipeline.from_pretrained(
-    "runwayml/stable-diffusion-v1-5",
+    model_name,
 ).to(device)
 
 gen = torch.Generator(device=device)
