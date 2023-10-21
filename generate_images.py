@@ -37,6 +37,7 @@ chunk_size = 15
 prompt = 'A photo of the face of a '
 
 with open('occupations.txt') as f:
+    next(f)
     occupations = [line.rstrip() for line in f]
 
 occupations = chunks(occupations, chunk_size)[args.split]
