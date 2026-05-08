@@ -56,11 +56,11 @@ The models stored in `dlib_models/` are taken from FairFace, which is used to cl
 ## Citation
 If you like or use our work please cite us:
 ```bibtex
-@article{friedrich2023FairDiffusion,
-      title={Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness}, 
-      author={Felix Friedrich and Manuel Brack and Lukas Struppek and Dominik Hintersdorf and Patrick Schramowski and Sasha Luccioni and Kristian Kersting},
-      year={2023},
-      journal={arXiv preprint at arXiv:2302.10893}
+@article{friedrich2025auditing,
+  author    = {Friedrich, Felix and Brack, Manuel and Struppek, Lukas and Hintersdorf, Dominik and Schramowski, Patrick and Luccioni, Sasha and Kersting, Kristian},
+  title     = {FairDiffusion: Auditing and instructing text-to-image generation models on fairness},
+  journal   = {AI and Ethics},
+  year      = {2025},
+  url       = {https://doi.org/10.1007/s43681-024-00531-5}
 }
 ```
-
